@@ -1,3 +1,5 @@
 # Hello world!
 
-Study in Netology
+I study in Netology
+
+11.06.2025
